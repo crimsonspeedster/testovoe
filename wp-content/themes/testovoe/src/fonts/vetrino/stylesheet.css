@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Vetrino';
+    src: url('VetrinoRegular.woff2') format('woff2'),
+        url('VetrinoRegular.woff') format('woff'),
+        url('VetrinoRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
